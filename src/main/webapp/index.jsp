@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! app changing</h2>
+<h2>Hello World! code changing</h2>
 </body>
 </html>
